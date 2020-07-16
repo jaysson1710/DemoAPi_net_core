@@ -1,0 +1,11 @@
+C:\Users\javendanob\source\repos\Repository\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\javendanob\source\repos\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\Users\javendanob\source\repos\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\javendanob\source\repos\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\Users\javendanob\source\repos\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\Users\javendanob\source\repos\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\Users\javendanob\source\repos\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\Users\javendanob\source\repos\Repository\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\javendanob\source\repos\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+C:\Users\javendanob\source\repos\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\Users\javendanob\source\repos\Repository\obj\Debug\netstandard2.0\Repository.pdb
