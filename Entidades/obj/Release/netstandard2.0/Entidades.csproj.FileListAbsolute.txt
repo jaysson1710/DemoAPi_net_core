@@ -1,0 +1,8 @@
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\bin\Release\netstandard2.0\Entidades.deps.json
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\bin\Release\netstandard2.0\Entidades.dll
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\bin\Release\netstandard2.0\Entidades.pdb
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\obj\Release\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\obj\Release\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\obj\Release\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\obj\Release\netstandard2.0\Entidades.dll
+C:\Users\javendanob\source\repos\DemoAPi\Entidades\obj\Release\netstandard2.0\Entidades.pdb
